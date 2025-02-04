@@ -1,0 +1,17 @@
+.card{
+    width: 300px;
+    height: 250px;
+    text-align: center;
+    position: relative;
+    border: 5px solid black;
+}
+.icon{
+    width: 150;
+    height: 30px;
+    left: 165px;
+    text-align: center;
+    padding: 50px;
+    bottom:0px ;
+    position: absolute;
+    border: 5px solid red;
+}

@@ -1,0 +1,21 @@
+.image-container{
+    width: 550px;
+    height: 450px;
+    border: 5px solid black;
+    position: relative;
+}
+.overlay{
+    width: 350px;
+    height: 350px;
+    border: 5px solid red;
+    position: absolute;
+    top: 60px;
+    right: 133px;
+    text-align: center;
+
+}
+img{
+    width: 350px;
+    height: 350px;
+    padding: 60px;
+}
